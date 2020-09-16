@@ -1,2 +1,3 @@
 # Hello-World
-SAmple Project for Github
+Sample Project for Github - 9/16/2020
+
